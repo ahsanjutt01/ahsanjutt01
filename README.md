@@ -55,10 +55,10 @@
 
 ---
 
-## 📊 GitHub Stats
+// ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanjutt01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ahsan's GitHub stats">
+// <div align="center">
+ // <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsanjutt01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ahsan's GitHub stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanjutt01&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
