@@ -1,5 +1,5 @@
 # 👋 Hi, I'm M. Ahsan Hameed
-### Senior Full-Stack Developer | React | Next.js | Node.js | AWS Specialist
+### Senior Full-Stack Developer | Nest.js | Node.js | React | Next.js | AWS Specialist
 
 🚀 **Building scalable web applications with modern JavaScript stacks**  
 💡 **5+ years experience** in full-stack development and cloud architecture  
